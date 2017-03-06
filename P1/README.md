@@ -44,7 +44,9 @@ python main.py
 ```
 
 运行会弹出一个chrome界面，需要现在网页登录输入用户名和密码。
+
 国外登录使用账号 `tli144@syr.edu` 密码 `Helloworld1`
+
 国内登录使用账号 `litianyi1@yeah.net` 密码 `Helloworld1`
 
 程序自动在弹出的网页中模拟鼠标操作抓取数据。如需终止请按 `Ctrl-c`。
