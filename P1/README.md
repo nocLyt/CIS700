@@ -24,7 +24,7 @@ pip install selenium
 
 安装 chromedriver
 --------
-[点此](https://chromedriver.storage.googleapis.com/index.html?path=2.27/) 选择下载对应操作系统的 chromedrive。 Windows 系统请将 chromedrive 放到chrome安装目录中（其实未必放在这个目录，关键要把所在的目录加入到环境变量中），并将安所在录加入环境变量。
+[点此](https://chromedriver.storage.googleapis.com/index.html?path=2.27/) 选择下载对应操作系统的 chromedrive。 Windows 系统请将`chromedrive`放到chrome安装目录中（其实未必放在这个目录，关键要把所在的目录加入到环境变量中），并将安所在录加入环境变量。Linux 和 MacOS ，将`chromedriver`移动到`/usr/bin`目录中
 
 
 安装 Beautifulsoup & lxml
