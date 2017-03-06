@@ -15,7 +15,7 @@ def login_success(br):
 def login(br):
     LOGIN_URL = "https://www.quora.com"
     br.get(LOGIN_URL)
-    time.sleep(10)
+    time.sleep(30)
     return
 
 
@@ -126,8 +126,6 @@ br = webdriver.Chrome()
 
 if __name__ == "__main__":
 
-    # noclyt@gmail.com
-    # Litianyi1
 
     # 1. LOGIN
     login(br);
